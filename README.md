@@ -23,5 +23,6 @@ I'm Haseeb Niazi, a Software Engineer with a passion for coding and problem-solv
 
 ## ⚡ Hobbies & Interests:
 
+- **GUI Scripting**: I'm very interested in learning about and programming user interfaces.
 - **Discord Bots**: I love creating and experimenting with Discord bots.
 - **Game Development**: Working on game development projects is one of my favorite pastimes.
