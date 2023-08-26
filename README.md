@@ -2,8 +2,6 @@
 
 I'm Haseeb Niazi, a Software Engineer with a passion for coding and problem-solving. I enjoy creating Discord bots and exploring game development. My expertise lies in languages like Python, Java, Lua, C, and HTML.
 
-![Haseeb Niazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseebn19&show_icons=true&theme=radical)
-
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, Java, Lua, C, HTML
