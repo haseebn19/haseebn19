@@ -5,7 +5,7 @@ I'm Haseeb Niazi, a Software Engineer with a passion for coding and problem-solv
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, Java, Lua, C, HTML
-- **Tools**: Slack, Trello, GitHub, Docker
+- **Tools**: Visual Studio, Slack, Trello, GitHub, Docker
 
 ## 🌱 Current Learning Goals
 
