@@ -1,9 +1,7 @@
 # Hello there! 👋
 
-I'm Haseeb Niazi, a Software Engineer with a passion for coding and problem-solving. I enjoy creating Discord bots and exploring software development.
-
-- **Languages & Libraries**: Python, Java, JavaScript, React.js, Lua, C, C#, HTML & CSS
-- **Tools**: Visual Studio, GitHub, Docker, Slack, Trello
+I'm Haseeb Niazi, a Software Engineer with a passion for coding and problem-solving.
+I enjoy exploring software development and learning new technologies.
 
 ## 🌱 Current Learning Goals
 
@@ -18,7 +16,7 @@ I'm Haseeb Niazi, a Software Engineer with a passion for coding and problem-solv
 - **Email**: haseebniazi19@outlook.com
 
 ## ⚡ Hobbies & Interests:
-
+- **Software Development**: I love learning about and experimenting with software development.
 - **GUI Scripting**: I'm very interested in learning about and programming user interfaces.
 - **Discord Bots**: I love creating and experimenting with Discord bots.
 - **Game Development**:  I enjoy working on game development projects.
