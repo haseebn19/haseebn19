@@ -20,3 +20,5 @@ I enjoy exploring software development and learning new technologies.
 - **GUI Scripting**: I'm very interested in learning about and programming user interfaces.
 - **Discord Bots**: I love creating and experimenting with Discord bots.
 - **Game Development**:  I enjoy working on game development projects.
+
+# 📂 [My Portfolio](https://haseeb.ca) 
