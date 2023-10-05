@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Haseeb Niazi, a Software Engineer with a passion for coding and problem-solving.
+I'm Haseeb Niazi, a Software Engineer with a passion for coding and problem-solving. <br>
 I enjoy exploring software development and learning new technologies.
 
 ## 🌱 Current Learning Goals
