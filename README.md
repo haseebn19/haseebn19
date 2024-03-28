@@ -13,7 +13,7 @@ I enjoy exploring software development and learning new technologies.
 ## 📫 How to reach me:
 
 - **LinkedIn**: [Haseeb Niazi](https://www.linkedin.com/in/haseebn/)
-- **Email**: haseebniazi19@outlook.com
+- **Email**: haseeb.kn@outlook.com
 
 ## ⚡ Hobbies & Interests:
 - **Software Development**: I love learning about and experimenting with software development.
