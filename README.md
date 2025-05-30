@@ -1,24 +1,49 @@
-# Hello there! 👋
+<div align="center">
 
-I'm Haseeb Niazi, a Software Engineer with a passion for coding and problem-solving. <br>
-I enjoy exploring software development and learning new technologies.
+# Hello, I'm Haseeb
 
-## 🌱 Current Learning Goals
+**Software Engineer** • **Ontario, Canada**
 
-- **Databases**: I'm keen on diving deep into the world of databases, understanding their architectures, and exploring various database management systems.
-- **Machine Learning**: Eager to explore the realm of machine learning, from basic algorithms to deep learning and neural networks.
-- **Software Development**: I aim to refine my software development skills, focusing on best practices, design patterns, and advanced methodologies.
-- **Frameworks**: I'm looking forward to learning and experimenting with various frameworks to enhance my development workflow and build robust applications.
+*Building solutions and exploring new technologies*
 
-## 📫 How to reach me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-haseeb.ca-6366f1?style=for-the-badge&logo=firefox&logoColor=white)](https://haseeb.ca)
 
-- **LinkedIn**: [Haseeb Niazi](https://www.linkedin.com/in/haseebn/)
-- **Email**: haseeb.kn@outlook.com
+</div>
 
-## ⚡ Hobbies & Interests:
-- **Software Development**: I love learning about and experimenting with software development.
-- **GUI Scripting**: I'm very interested in learning about and programming user interfaces.
-- **Discord Bots**: I love creating and experimenting with Discord bots.
-- **Game Development**:  I enjoy working on game development projects.
+---
 
-# 📂 [My Portfolio](https://haseeb.ca) 
+## 🚀 About Me
+
+Software Engineer passionate about creating efficient solutions and tackling new challenges. I focus on full-stack development, automation tools, and desktop applications.
+
+## 💻 Recent Projects
+
+- **🤖 Discord Calendar Bot** - Event coordination across multiple timezones
+- **🔐 Password Generator** - Windows desktop app with strength validation  
+- **🔑 SSH Key Generator** - Python GUI tool for secure key pair generation
+- **🌐 Personal Portfolio** - React-based responsive website
+- **🎮 Roblox Development** - Lua scripting and game development
+
+## 🛠️ Tech Stack
+
+**Languages:** Python • JavaScript • Java • C • C# • SQL • Lua  
+**Frontend:** React.js • HTML5 • CSS3  
+**Backend:** Node.js • .NET Framework  
+**Tools:** Git • Docker • Visual Studio • Roblox Studio
+
+## 🎯 Currently Learning
+
+- **Cloud Computing** - AWS and Azure platforms
+- **Advanced React** - Modern patterns and performance optimization
+- **Database Design** - SQL optimization and systems architecture
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseebn/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haseeb.kn@outlook.com)
+
+</div>
+
+---
