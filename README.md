@@ -76,8 +76,8 @@ Git · GitHub · Docker · Visual Studio · VS Code · Roblox Studio
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-haseeb.ca-6366f1?style=for-the-badge&logo=firefox&logoColor=white)](https://haseeb.ca)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseebn/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-haseeb.ca-6366f1?style=for-the-badge&logo=firefox&logoColor=white)](https://haseeb.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseebn/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haseeb.kn@outlook.com)
 
 </div>
