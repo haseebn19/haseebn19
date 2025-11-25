@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hello, I'm Haseeb
+# Hi, I'm Haseeb
 
-**Software Engineer** • **Ontario, Canada**
+**Software Engineer** · Ontario, Canada  
 
-*Building solutions and exploring new technologies*
+I build web apps, desktop tools, and small utilities that solve real everyday problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-haseeb.ca-6366f1?style=for-the-badge&logo=firefox&logoColor=white)](https://haseeb.ca)
 
@@ -12,38 +12,72 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-Software Engineer passionate about creating efficient solutions and tackling new challenges. I focus on full-stack development, automation tools, and desktop applications.
+I work across the stack, with a focus on:
 
-## 💻 Recent Projects
+- Web based apps using React, Vite, and modern JavaScript tooling  
+- Desktop applications with Electron and native frameworks  
+- Small tools, bots, and utilities that make workflows smoother
 
-- **🤖 Discord Calendar Bot** - Event coordination across multiple timezones
-- **🔐 Password Generator** - Windows desktop app with strength validation  
-- **🔑 SSH Key Generator** - Python GUI tool for secure key pair generation
-- **🌐 Personal Portfolio** - React-based responsive website
-- **🎮 Roblox Development** - Lua scripting and game development
+I am also an open source developer at **Pilewise**, where a small team of two is building an app to organize and manage files more easily.
 
-## 🛠️ Tech Stack
+---
 
-**Languages:** Python • JavaScript • Java • C • C# • SQL • Lua  
-**Frontend:** React.js • HTML5 • CSS3  
-**Backend:** Node.js • .NET Framework  
-**Tools:** Git • Docker • Visual Studio • Roblox Studio
+## 📌 Selected Projects
 
-## 🎯 Currently Learning
+- **[Passgen](https://github.com/haseebn19/passgen)**  
+  Password generator for Windows with strength checking and custom rules, built in C# and .NET.
 
-- **Cloud Computing** - AWS and Azure platforms
-- **Advanced React** - Modern patterns and performance optimization
-- **Database Design** - SQL optimization and systems architecture
+- **[SSH Key Generator](https://github.com/haseebn19/ssh-keygen)**  
+  Python desktop app that generates SSH key pairs with a simple GUI and multiple algorithm options.
 
-## 📬 Let's Connect
+- **[Unidetect](https://github.com/haseebn19/unidetect)**  
+  TypeScript tool that detects and cleans hidden Unicode characters in text to avoid confusing or spoofed strings.
+
+- **[Portfolio Website](https://github.com/haseebn19/portfolio)**  
+  My personal site at [haseeb.ca](https://haseeb.ca), built as a modern responsive web app.
+
+- **[Project Packager for Roblox Studio](https://github.com/haseebn19/project-packager-rbxstudio)**  
+  Roblox Studio plugin written in Luau to help package and organize projects inside the editor.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+Python · JavaScript · TypeScript · C# · Lua · Java · C · SQL  
+
+**Frontend**  
+React · Vite · HTML5 · CSS3  
+
+**Backend**  
+Node.js · .NET  
+
+**Desktop / Apps**  
+Electron · PyQt · Windows Forms  
+
+**Tools**  
+Git · GitHub · Docker · Visual Studio · VS Code · Roblox Studio  
+
+---
+
+## 📚 Currently Building and Learning
+
+- Shipping production ready Electron apps with Vite and React  
+- Designing and iterating on the file organization app at Pilewise  
+- Modern React patterns like hooks, state management, and performance tuning  
+- Cloud platforms such as AWS and Azure  
+- Better database design and SQL optimization
+
+---
+
+## 📫 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseebn/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-haseeb.ca-6366f1?style=for-the-badge&logo=firefox&logoColor=white)](https://haseeb.ca)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseebn/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haseeb.kn@outlook.com)
 
 </div>
-
----
