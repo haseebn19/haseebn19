@@ -26,6 +26,9 @@ I am also an open source developer at **Pilewise**, where a small team of two is
 
 ## 📌 Selected Projects
 
+- **[ReQuizle](https://github.com/haseebn19/requizle)**  
+  Spaced-repetition study app with mastery tracking, multiple question types, JSON import, and local-first storage.
+
 - **[Passgen](https://github.com/haseebn19/passgen)**  
   Password generator for Windows with strength checking and custom rules, built in C# and .NET.
 
