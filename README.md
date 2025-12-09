@@ -41,9 +41,6 @@ I am also an open source developer at **Pilewise**, where a small team of two is
 - **[Portfolio Website](https://github.com/haseebn19/portfolio)**  
   My personal site at [haseeb.ca](https://haseeb.ca), built as a modern responsive web app.
 
-- **[Project Packager for Roblox Studio](https://github.com/haseebn19/project-packager-rbxstudio)**  
-  Roblox Studio plugin written in Luau to help package and organize projects inside the editor.
-
 ---
 
 ## 🛠 Tech Stack
