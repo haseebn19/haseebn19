@@ -1,86 +1,67 @@
 <div align="center">
 
 # Hi, I'm Haseeb
+### Software Engineer
+**Ontario, Canada**
 
-**Software Engineer** · Ontario, Canada  
+I build web apps, desktop tools, and utilities that solve real everyday problems.
 
-I build web apps, desktop tools, and small utilities that solve real everyday problems.
+<a href="https://haseeb.ca" target="_blank"><img src="https://img.shields.io/badge/Portfolio-haseeb.ca-6366f1?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/haseebn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:haseeb.kn@outlook.com"><img src="https://img.shields.io/badge/Email-haseeb.kn%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-haseeb.ca-6366f1?style=for-the-badge&logo=firefox&logoColor=white)](https://haseeb.ca)
+<br/><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,vite,ts,tailwind,python,c,cs,java,spring,postgres,mysql,sqlite,docker,linux,git,figma&perline=8" />
+</a>
+
+<br/>
 
 </div>
-
----
 
 ## 🚀 What I Do
+- **Web Development:** Modern apps with **React**, **Vite**, and clean UI patterns.
+- **Desktop Engineering:** Cross-platform tools using **Electron**, **.NET (WPF)**, and **PyQt**.
+- **System Utilities:** Bots and automation scripts to smooth out real workflows.
 
-I work across the stack, with a focus on:
-
-- Web-based apps using React, Vite, and modern JavaScript tooling  
-- Desktop applications with Electron and native frameworks  
-- Small tools, bots, and utilities that make workflows smoother
-
-I'm also an open-source developer at **Pilewise**, where a small team of two is building an app to organize and manage files more easily.
+Currently an open-source developer at **[Pilewise](https://github.com/your-org-link)** (team of two), building a local-first file organization tool.
 
 ---
 
-## 📌 Selected Projects
+## 📌 Featured Projects
 
-- **[ReQuizle](https://github.com/haseebn19/requizle)**  
-  Spaced-repetition study app with mastery tracking, multiple question types, JSON import, and local-first storage.
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Urban Housing Demand](https://github.com/haseebn19/urban-housing-demand)** | Full-stack visualization tool for housing and labour market data. | `React` `Spring Boot` `MariaDB` |
+| **[ReQuizle](https://github.com/haseebn19/requizle)** | Local-first spaced repetition study app with mastery tracking. | `TypeScript` `Local-first` |
+| **[Unidetect](https://github.com/haseebn19/unidetect)** | Zero-dependency tool to detect and remove hidden Unicode characters. | `TypeScript` `Security` |
 
-- **[Unidetect](https://github.com/haseebn19/unidetect)**  
-  TypeScript tool that detects and cleans hidden Unicode characters in text to avoid confusing or spoofed strings.
+<details>
+<summary><b>📂 More projects</b></summary>
 
-- **[Passgen](https://github.com/haseebn19/passgen)**  
-  Password generator for Windows with strength checking and custom rules, built in C# and .NET.
+- **[Passgen](https://github.com/haseebn19/passgen)** (C# / WPF)  
+  Password generator for Windows with strength checking and custom rules.
 
-- **[SSH Key Generator](https://github.com/haseebn19/ssh-keygen)**  
-  Python desktop app that generates SSH key pairs with a simple GUI and multiple algorithm options.
+- **[SSH Key Generator](https://github.com/haseebn19/ssh-keygen)** (Python / PyQt6)  
+  Desktop app that generates SSH key pairs with a simple GUI.
 
-- **[Discord Calendar Bot](https://github.com/haseebn19/calendar-bot)**  
-  Python Discord bot for managing calendar events with full timezone support and slash commands.
+- **[Discord Calendar Bot](https://github.com/haseebn19/calendar-bot)** (Python / discord.py)  
+  Discord bot for managing calendar events with timezone support and slash commands.
 
-- **[Portfolio Website](https://github.com/haseebn19/portfolio)**  
-  My personal site at [haseeb.ca](https://haseeb.ca), built as a modern responsive web app.
-
----
-
-## 🛠 Tech Stack
-
-**Languages**  
-Python · JavaScript · TypeScript · C# · Lua · Java · C · SQL  
-
-**Frontend**  
-React · Vite · HTML5 · CSS3  
-
-**Backend**  
-Node.js · .NET  
-
-**Desktop / Apps**  
-Electron · PyQt · Windows Forms  
-
-**Tools**  
-Git · GitHub · Docker · Visual Studio · VS Code · Roblox Studio  
+</details>
 
 ---
 
-## 📚 Currently Building and Learning
-
-- Shipping production-ready Electron apps with Vite and React  
-- Designing and iterating on the file organization app at Pilewise  
-- Modern React patterns like hooks, state management, and performance tuning  
-- Cloud platforms such as AWS and Azure  
-- Better database design and SQL optimization
-
----
-
-## 📫 Connect
+## 📊 GitHub Stats
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-haseeb.ca-6366f1?style=for-the-badge&logo=firefox&logoColor=white)](https://haseeb.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseebn/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haseeb.kn@outlook.com)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebn19&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
 </div>
+
+---
+
+## 🤝 Open to
+- **Full-time & Internship** opportunities (Frontend, Full-stack, Desktop).
+- Collaborations on developer tools and productivity apps.
+- Located in **Hamilton, Ontario** (Open to Remote/Hybrid).
