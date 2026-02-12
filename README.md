@@ -63,5 +63,5 @@ Currently an open-source developer at **[Pilewise](https://github.com/your-org-l
 
 ## 🤝 Open to
 - **Full-time & Internship** opportunities (Frontend, Full-stack, Desktop).
-- Collaborations on developer tools and productivity apps.
+- Collaborations on developing tools and apps.
 - Located in **Hamilton, Ontario** (Open to Remote/Hybrid).
