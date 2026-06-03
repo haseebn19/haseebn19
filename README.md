@@ -23,7 +23,7 @@ I build web apps, desktop tools, and utilities that solve real everyday problems
 - **Desktop Engineering:** Cross-platform tools using **Electron**, **.NET (WPF)**, and **PyQt**.
 - **System Utilities:** Bots and automation scripts to smooth out real workflows.
 
-Currently an open-source developer at **[Pilewise](https://github.com/Pilewise)** (team of two), building a local-first file organization tool.
+Currently an open-source developer at **[Pilewise](https://github.com/Pilewise)** (team of two), building a file organization tool.
 
 ---
 
