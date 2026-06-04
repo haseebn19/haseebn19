@@ -58,9 +58,13 @@ I currently contribute to **[Pilewise](https://github.com/Pilewise)**, an open-s
 ## GitHub Stats
 
 <div align="center">
-
-[![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseebn19&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haseebn19&theme=github_dark" alt="GitHub Profile Details" />
+  
+  <br/><br/>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=haseebn19&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
 </div>
 
 ## Technologies
