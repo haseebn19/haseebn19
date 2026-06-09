@@ -76,7 +76,7 @@ I currently contribute to **[Pilewise](https://github.com/Pilewise)**, an open-s
 
 ## Open To
 
-I am looking for full-time software engineering roles in frontend, full-stack, backend, or desktop development.
+I look for full-time software engineering roles in frontend, full-stack, backend, or desktop development.
 
 I am based in Ontario, Canada and open to remote, hybrid, and local opportunities.
 
